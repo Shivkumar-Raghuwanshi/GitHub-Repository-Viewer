@@ -10,6 +10,9 @@ This Flutter application connects to the GitHub API to retrieve and display info
 4. Implements a responsive design that adapts to different screen sizes.
 5. Provides a dark theme with custom color scheme.
 
+## Watch the video by clicking on the thumbnail below:
+[![API Endpoints](https://img.youtube.com/vi/5Zwb5aYj7nI/maxresdefault.jpg)](https://www.youtube.com/embed/5Zwb5aYj7nI?si=BUTL81qa17F2n-ur)
+
 ## Key Components
 
 ### Repository Class
